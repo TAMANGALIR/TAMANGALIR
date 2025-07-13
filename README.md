@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Java, Python, SQL**
 
-- 👯 I’m looking to collaborate on **MERN stack projects**
+- 👯 I’m looking to collaborate on **FULL stack LARAVEL projects**
 
 - 🤝 I’m looking for help with **Canteen Management System**
 
-- 💬 Ask me about **MERN Projects**
+- 💬 Ask me about **FULL STACK LARAVEL/FILAMENT**
 
 - 📫 How to reach me **tamangalir@gmail.com**
 
