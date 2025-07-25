@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tamangalir" alt="tamangalir" /></a> </p>
 
-- 🔭 I’m currently working on **Canteen Management System**
+- 🔭 I’m currently working on **E-commerce Website**
 
-- 🌱 I’m currently learning **Java, Python, SQL**
+- 🌱 I’m currently learning **Laravel, Filament, SQL**
 
 - 👯 I’m looking to collaborate on **FULL stack LARAVEL projects**
 
-- 🤝 I’m looking for help with **Canteen Management System**
+- 🤝 I’m looking for help with **E-commerce Website**
 
 - 💬 Ask me about **FULL STACK LARAVEL/FILAMENT**
 
